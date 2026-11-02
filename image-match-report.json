@@ -1,20 +1,21 @@
 {
   "catalog_records": 193,
-  "original_images": 192,
-  "missing": [
-    "陳曉萍_跨文化管理 4e.png"
-  ],
+  "original_images": 193,
+  "missing": [],
   "unindexed_images": [],
   "filename_aliases": {
     "林蕙真_管理會計學-理論與應用(全一冊) 8e.png": "林蕙真_管理會計學-理論與應用(全一冊)_8e.png"
   },
   "dimensions": {
-    "(1448, 1086)": 185,
+    "(1448, 1086)": 186,
     "(941, 1672)": 1,
     "(1536, 1024)": 6
   },
   "web_format": "WebP lossless",
-  "identical_pixels_verified": 192,
-  "original_png_bytes": 377703381,
-  "webp_bytes": 277408654
+  "identical_pixels_verified": 193,
+  "original_png_bytes": 381044972,
+  "webp_bytes": 279252338,
+  "supplemental_images": [
+    "陳曉萍_跨文化管理 4e.png"
+  ]
 }

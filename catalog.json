@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "source": "書目來自 index(1).html，圖片來自 bookinfo(1).zip。分類與書目仍保留待確認狀態。",
+  "source": "書目來自 index(1).html，圖片來自 bookinfo(1).zip 與補充上傳的《跨文化管理》4 版資訊圖。",
   "items": [
     {
       "id": "catalog-0001",
@@ -3068,16 +3068,16 @@
       "origInfo": "",
       "language": "中文",
       "category": "組織行為與人力資源",
-      "tags": [
-        "原圖未提供"
-      ],
+      "tags": [],
       "sourceName": "陳曉萍_跨文化管理 4e.png",
-      "image": "",
-      "thumb": "",
+      "image": "images/0154.webp",
+      "thumb": "thumbs/0154.webp",
       "review": true,
       "isVariant": false,
-      "hash": "",
-      "size": 0
+      "hash": "b9e235049dab866c3d00f0430ab9e55f110cbc73542ad40c1932227ef95800f4",
+      "size": 1843684,
+      "originalHash": "9901b58d64f8b0dc41074a541ff3c55a5a9fbb2a9458f6f91590a8a115946e95",
+      "originalSize": 3341591
     },
     {
       "id": "catalog-0155",
